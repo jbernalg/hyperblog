@@ -1,4 +1,4 @@
 Hola buenas tardes.
-Este es un archivo de prueba que 
-sera utilizado en la siguiente practica.
-Jeinfferson Bernal.
+Este es un documento de prueba que 
+sera usado en la siguiente leccion:.
+Jose Bernal.
