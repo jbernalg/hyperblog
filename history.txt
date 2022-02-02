@@ -1,8 +1,6 @@
 Hola buenas tardes.
-Este es un archivo de prueba que 
-sera utilizado mañana en una nueva clase.
-gracias.
-Jeinfferson Bernal.
-
-Buenos Dias
-Aca otro cambio
+Este es un documento de prueba que 
+sera usado en la siguiente seccion.
+Jose Bernal.
+Saludos
+Desde Medellin colombia
